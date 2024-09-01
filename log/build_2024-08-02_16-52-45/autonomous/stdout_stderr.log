@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing autonomous.egg-info/PKG-INFO
+writing dependency_links to autonomous.egg-info/dependency_links.txt
+writing entry points to autonomous.egg-info/entry_points.txt
+writing requirements to autonomous.egg-info/requires.txt
+writing top-level names to autonomous.egg-info/top_level.txt
+reading manifest file 'autonomous.egg-info/SOURCES.txt'
+writing manifest file 'autonomous.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous.egg-link (link to .)
+Installing control script to /home/pranav/lol/install/autonomous/lib/autonomous
+Installing rrt script to /home/pranav/lol/install/autonomous/lib/autonomous
+
+Installed /home/pranav/lol/build/autonomous
+running symlink_data
+symbolically linking /home/pranav/lol/build/autonomous/resource/autonomous -> /home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages
+symbolically linking /home/pranav/lol/build/autonomous/package.xml -> /home/pranav/lol/install/autonomous/share/autonomous

@@ -1,0 +1,23 @@
+[0.972s] Invoking command in '/home/pranav/lol/build/autonomous': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pranav/lol/build/autonomous/build --no-deps symlink_data --force
+[1.355s] running develop
+[1.609s] running egg_info
+[1.609s] writing autonomous.egg-info/PKG-INFO
+[1.609s] writing dependency_links to autonomous.egg-info/dependency_links.txt
+[1.610s] writing entry points to autonomous.egg-info/entry_points.txt
+[1.610s] writing requirements to autonomous.egg-info/requires.txt
+[1.611s] writing top-level names to autonomous.egg-info/top_level.txt
+[1.613s] reading manifest file 'autonomous.egg-info/SOURCES.txt'
+[1.615s] writing manifest file 'autonomous.egg-info/SOURCES.txt'
+[1.621s] running build_ext
+[1.622s] Creating /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous.egg-link (link to .)
+[1.622s] Installing control script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.622s] Installing d script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.622s] Installing rrt script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.622s] 
+[1.622s] Installed /home/pranav/lol/build/autonomous
+[1.622s] running symlink_data
+[1.622s] creating /home/pranav/lol/install/autonomous/share/ament_index
+[1.622s] creating /home/pranav/lol/install/autonomous/share/ament_index/resource_index
+[1.622s] creating /home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages
+[1.622s] error: [Errno 2] No such file or directory: '/home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages/autonomous'
+[1.659s] Invoked command in '/home/pranav/lol/build/autonomous' returned '1': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pranav/lol/build/autonomous/build --no-deps symlink_data --force

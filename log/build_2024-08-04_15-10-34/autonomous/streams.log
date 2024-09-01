@@ -1,0 +1,36 @@
+[0.909s] Invoking command in '/home/pranav/lol/src/autonomous': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous build --build-base /home/pranav/lol/build/autonomous/build install --record /home/pranav/lol/build/autonomous/install.log --single-version-externally-managed install_data
+[1.248s] running egg_info
+[1.248s] writing ../../build/autonomous/autonomous.egg-info/PKG-INFO
+[1.249s] writing dependency_links to ../../build/autonomous/autonomous.egg-info/dependency_links.txt
+[1.250s] writing entry points to ../../build/autonomous/autonomous.egg-info/entry_points.txt
+[1.250s] writing requirements to ../../build/autonomous/autonomous.egg-info/requires.txt
+[1.250s] writing top-level names to ../../build/autonomous/autonomous.egg-info/top_level.txt
+[1.253s] reading manifest file '../../build/autonomous/autonomous.egg-info/SOURCES.txt'
+[1.254s] writing manifest file '../../build/autonomous/autonomous.egg-info/SOURCES.txt'
+[1.254s] running build
+[1.254s] running build_py
+[1.254s] running install
+[1.255s] running install_lib
+[1.256s] creating /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.256s] copying /home/pranav/lol/build/autonomous/build/lib/autonomous/rrt.py -> /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.256s] copying /home/pranav/lol/build/autonomous/build/lib/autonomous/control.py -> /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.257s] copying /home/pranav/lol/build/autonomous/build/lib/autonomous/D.py -> /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.257s] copying /home/pranav/lol/build/autonomous/build/lib/autonomous/__init__.py -> /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.257s] byte-compiling /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous/rrt.py to rrt.cpython-310.pyc
+[1.260s] byte-compiling /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous/control.py to control.cpython-310.pyc
+[1.264s] byte-compiling /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous/D.py to D.cpython-310.pyc
+[1.267s] byte-compiling /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous/__init__.py to __init__.cpython-310.pyc
+[1.267s] running install_data
+[1.267s] creating /home/pranav/lol/install/autonomous/share/ament_index
+[1.268s] creating /home/pranav/lol/install/autonomous/share/ament_index/resource_index
+[1.268s] creating /home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages
+[1.268s] copying resource/autonomous -> /home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages
+[1.268s] copying package.xml -> /home/pranav/lol/install/autonomous/share/autonomous
+[1.268s] running install_egg_info
+[1.270s] Copying ../../build/autonomous/autonomous.egg-info to /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous-0.0.0-py3.10.egg-info
+[1.273s] running install_scripts
+[1.293s] Installing control script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.294s] Installing d script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.294s] Installing rrt script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.294s] writing list of installed files to '/home/pranav/lol/build/autonomous/install.log'
+[1.324s] Invoked command in '/home/pranav/lol/src/autonomous' returned '0': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous build --build-base /home/pranav/lol/build/autonomous/build install --record /home/pranav/lol/build/autonomous/install.log --single-version-externally-managed install_data

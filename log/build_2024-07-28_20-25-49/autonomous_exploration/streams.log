@@ -1,0 +1,9 @@
+[0.753s] Invoking command in '/home/pranav/lol/src/autonomous': PYTHONPATH=/home/pranav/lol/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous_exploration build --build-base /home/pranav/lol/build/autonomous_exploration/build install --record /home/pranav/lol/build/autonomous_exploration/install.log --single-version-externally-managed install_data
+[1.039s] running egg_info
+[1.040s] writing ../../build/autonomous_exploration/autonomous_exploration.egg-info/PKG-INFO
+[1.040s] writing dependency_links to ../../build/autonomous_exploration/autonomous_exploration.egg-info/dependency_links.txt
+[1.041s] writing entry points to ../../build/autonomous_exploration/autonomous_exploration.egg-info/entry_points.txt
+[1.041s] writing requirements to ../../build/autonomous_exploration/autonomous_exploration.egg-info/requires.txt
+[1.041s] writing top-level names to ../../build/autonomous_exploration/autonomous_exploration.egg-info/top_level.txt
+[1.043s] error: package directory 'autonomous_exploration' does not exist
+[1.066s] Invoked command in '/home/pranav/lol/src/autonomous' returned '1': PYTHONPATH=/home/pranav/lol/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous_exploration build --build-base /home/pranav/lol/build/autonomous_exploration/build install --record /home/pranav/lol/build/autonomous_exploration/install.log --single-version-externally-managed install_data

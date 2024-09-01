@@ -1,0 +1,20 @@
+[0.752s] Invoking command in '/home/pranav/lol/build/autonomous': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pranav/lol/build/autonomous/build --no-deps symlink_data --force
+[1.050s] running develop
+[1.245s] running egg_info
+[1.245s] writing autonomous.egg-info/PKG-INFO
+[1.246s] writing dependency_links to autonomous.egg-info/dependency_links.txt
+[1.246s] writing entry points to autonomous.egg-info/entry_points.txt
+[1.246s] writing requirements to autonomous.egg-info/requires.txt
+[1.246s] writing top-level names to autonomous.egg-info/top_level.txt
+[1.248s] reading manifest file 'autonomous.egg-info/SOURCES.txt'
+[1.249s] writing manifest file 'autonomous.egg-info/SOURCES.txt'
+[1.251s] running build_ext
+[1.251s] Creating /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous.egg-link (link to .)
+[1.252s] Installing control script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.252s] Installing rrt script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.252s] 
+[1.252s] Installed /home/pranav/lol/build/autonomous
+[1.252s] running symlink_data
+[1.252s] symbolically linking /home/pranav/lol/build/autonomous/resource/autonomous -> /home/pranav/lol/install/autonomous/share/ament_index/resource_index/packages
+[1.252s] symbolically linking /home/pranav/lol/build/autonomous/package.xml -> /home/pranav/lol/install/autonomous/share/autonomous
+[1.278s] Invoked command in '/home/pranav/lol/build/autonomous' returned '0': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pranav/lol/build/autonomous/build --no-deps symlink_data --force

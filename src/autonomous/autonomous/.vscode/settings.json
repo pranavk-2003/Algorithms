@@ -1,0 +1,12 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/pranav/ws/install/mypkg/lib/python3.10/site-packages",
+        "/home/pranav/ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pranav/ws/src/my_robot_interfaces/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pranav/learning_ws/build/mypkg",
+        "/home/pranav/learning_ws/install/mypkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

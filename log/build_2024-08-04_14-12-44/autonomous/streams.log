@@ -1,0 +1,25 @@
+[1.328s] Invoking command in '/home/pranav/lol/src/autonomous': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous build --build-base /home/pranav/lol/build/autonomous/build install --record /home/pranav/lol/build/autonomous/install.log --single-version-externally-managed install_data
+[1.625s] running egg_info
+[1.626s] writing ../../build/autonomous/autonomous.egg-info/PKG-INFO
+[1.627s] writing dependency_links to ../../build/autonomous/autonomous.egg-info/dependency_links.txt
+[1.627s] writing entry points to ../../build/autonomous/autonomous.egg-info/entry_points.txt
+[1.627s] writing requirements to ../../build/autonomous/autonomous.egg-info/requires.txt
+[1.627s] writing top-level names to ../../build/autonomous/autonomous.egg-info/top_level.txt
+[1.629s] reading manifest file '../../build/autonomous/autonomous.egg-info/SOURCES.txt'
+[1.694s] writing manifest file '../../build/autonomous/autonomous.egg-info/SOURCES.txt'
+[1.695s] running build
+[1.695s] running build_py
+[1.695s] copying autonomous/rrt.py -> /home/pranav/lol/build/autonomous/build/lib/autonomous
+[1.696s] running install
+[1.696s] running install_lib
+[1.698s] copying /home/pranav/lol/build/autonomous/build/lib/autonomous/rrt.py -> /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous
+[1.699s] byte-compiling /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous/rrt.py to rrt.cpython-310.pyc
+[1.701s] running install_data
+[1.702s] running install_egg_info
+[1.704s] removing '/home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous-0.0.0-py3.10.egg-info' (and everything under it)
+[1.704s] Copying ../../build/autonomous/autonomous.egg-info to /home/pranav/lol/install/autonomous/lib/python3.10/site-packages/autonomous-0.0.0-py3.10.egg-info
+[1.705s] running install_scripts
+[1.725s] Installing control script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.725s] Installing rrt script to /home/pranav/lol/install/autonomous/lib/autonomous
+[1.726s] writing list of installed files to '/home/pranav/lol/build/autonomous/install.log'
+[1.754s] Invoked command in '/home/pranav/lol/src/autonomous' returned '0': PYTHONPATH=/home/pranav/lol/build/autonomous/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/lol/install/autonomous/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous build --build-base /home/pranav/lol/build/autonomous/build install --record /home/pranav/lol/build/autonomous/install.log --single-version-externally-managed install_data

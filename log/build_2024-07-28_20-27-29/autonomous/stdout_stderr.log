@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/autonomous/autonomous_exploration.egg-info
+writing ../../build/autonomous/autonomous_exploration.egg-info/PKG-INFO
+writing dependency_links to ../../build/autonomous/autonomous_exploration.egg-info/dependency_links.txt
+writing entry points to ../../build/autonomous/autonomous_exploration.egg-info/entry_points.txt
+writing requirements to ../../build/autonomous/autonomous_exploration.egg-info/requires.txt
+writing top-level names to ../../build/autonomous/autonomous_exploration.egg-info/top_level.txt
+writing manifest file '../../build/autonomous/autonomous_exploration.egg-info/SOURCES.txt'
+error: package directory 'autonomous_exploration' does not exist

@@ -1,0 +1,7 @@
+running egg_info
+writing ../../build/autonomous_exploration/autonomous_exploration.egg-info/PKG-INFO
+writing dependency_links to ../../build/autonomous_exploration/autonomous_exploration.egg-info/dependency_links.txt
+writing entry points to ../../build/autonomous_exploration/autonomous_exploration.egg-info/entry_points.txt
+writing requirements to ../../build/autonomous_exploration/autonomous_exploration.egg-info/requires.txt
+writing top-level names to ../../build/autonomous_exploration/autonomous_exploration.egg-info/top_level.txt
+error: package directory 'autonomous_exploration' does not exist

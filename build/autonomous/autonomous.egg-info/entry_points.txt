@@ -1,0 +1,5 @@
+[console_scripts]
+control = autonomous.control:main
+d = autonomous.D:main
+rrt = autonomous.rrt:main
+
